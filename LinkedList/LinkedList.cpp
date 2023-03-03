@@ -1,9 +1,7 @@
-// LinkedList.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+#include "Insert.h"
 
-struct node 
+struct node
 {
     int data;
     struct node* next;
@@ -16,6 +14,18 @@ int main()
     printf(" 1. Insert\n, 2. Delete\n, 3. Traverse\n, 4. Search\n ");
     scanf_s("%d", &i);
 
-
+    switch ( i )
+    {
+    case 1:
+        break;
+    case 2:
+        break;
+    case 3:
+        break;
+    case 4:
+        break;
+    default:
+        break;
+    }
 }
 
