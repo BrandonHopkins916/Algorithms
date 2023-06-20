@@ -11,6 +11,9 @@ Release/
 x64/
 .vs/
 .v16/
+Fibonacci_Sequence/.vs/Fibonacci_Sequence/v16/.suo
+*.pdb
+Fibonacci_Sequence/Debug/vc142.idb
 
 # Prerequisites
 *.d
